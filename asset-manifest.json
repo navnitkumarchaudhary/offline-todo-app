@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/offline-todo-app/static/css/main.735f7739.css",
+    "main.js": "/offline-todo-app/static/js/main.74d0d07f.js",
+    "static/js/787.63e47474.chunk.js": "/offline-todo-app/static/js/787.63e47474.chunk.js",
+    "static/media/close.svg": "/offline-todo-app/static/media/close.918b1234f49b28de4f8720841fa5f8d2.svg",
+    "index.html": "/offline-todo-app/index.html",
+    "main.735f7739.css.map": "/offline-todo-app/static/css/main.735f7739.css.map",
+    "main.74d0d07f.js.map": "/offline-todo-app/static/js/main.74d0d07f.js.map",
+    "787.63e47474.chunk.js.map": "/offline-todo-app/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.735f7739.css",
+    "static/js/main.74d0d07f.js"
+  ]
+}
